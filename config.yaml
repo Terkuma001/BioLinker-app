@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    demo_user:
+      email: demo@superedu.org
+      name: Demo User
+      password: '$2b$12$KIXQnQf8qB1aHo6aEb9YWeAVZlL9DPn2uayl8h7jBlz9EnXTVW56S'  # "demopass"
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: bio_linker_auth
+preauthorized:
+  emails:
+    - demo@superedu.org
